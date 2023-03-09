@@ -1,3 +1,3 @@
 # MOXLA
 
-cd moxlatest
+ cd moxlatest
